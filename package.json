@@ -1,0 +1,10 @@
+{
+	"name": "Ruzzle",
+	"version": "0.0.0",
+	"description": "Ruzzle hack.",
+	"dependencies": {
+		"express": "latest",
+		"jade": "latest"
+	},
+	"author": "Carlyle Oliver"
+}
