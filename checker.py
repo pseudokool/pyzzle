@@ -4,7 +4,7 @@ print sys.argv
 
 # read dict
 wlist = []
-with open('wlist', 'r') as f:
+with open('master', 'r') as f:
 	words = f.readlines()
 
 	for aword in words:
